@@ -1,0 +1,19 @@
+var printWorthyImages = [
+
+  {
+    "image": "src='../images/photos/print_worthy_album/DSC_0828.jpg'",
+  },
+  {
+    "image": "../images/photos/print_worthy_album/DSC_0173.jpg",
+  },
+  {
+    "image": "../images/photos/print_worthy_album/DSC_0272.jpg",
+  },
+  {
+    "image": "../images/photos/print_worthy_album/DSC_0332.jpg",
+  },
+  {
+    "image": "../images/photos/print_worthy_album/DSC_0843.jpg",
+  },
+
+]
