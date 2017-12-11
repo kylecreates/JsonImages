@@ -1,5 +1,4 @@
-var urbanImages = [
-
+ [
   {
     "image": "<li class="albumImages"> <img src='../images/photos/urban/no_1.jpg'> </li>",
   },
@@ -15,5 +14,4 @@ var urbanImages = [
   {
     "image": "<li class="albumImages"> <img src='../images/photos/urban/no_5.jpg'> </li>",
   },
-
 ]
