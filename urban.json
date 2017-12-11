@@ -1,17 +1,17 @@
  [
   {
-    "image": "<li class="albumImages"> <img src='../images/photos/urban/no_1.jpg'> </li>",
+    "image": "<li class='albumImages'> <img src='../images/photos/urban/no_1.jpg'> </li>",
   },
   {
-    "image": "<li class="albumImages"> <img src='../images/photos/urban/no_2.jpg'> </li>",
+    "image": "<li class='albumImages'> <img src='../images/photos/urban/no_2.jpg'> </li>",
   },
   {
-    "image": "<li class="albumImages"> <img src='../images/photos/urban/no_3.jpg'> </li>",
+    "image": "<li class='albumImages'> <img src='../images/photos/urban/no_3.jpg'> </li>",
   },
   {
-    "image": "<li class="albumImages"> <img src='../images/photos/urban/no_4.jpg'> </li>",
+    "image": "<li class='albumImages'> <img src='../images/photos/urban/no_4.jpg'> </li>",
   },
   {
-    "image": "<li class="albumImages"> <img src='../images/photos/urban/no_5.jpg'> </li>",
+    "image": "<li class='albumImages'> <img src='../images/photos/urban/no_5.jpg'> </li>",
   },
 ]
