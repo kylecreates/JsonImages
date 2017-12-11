@@ -1,19 +1,19 @@
-var printWorthyImages = [
+var urbanImages = [
 
   {
-    "image": "src='../images/photos/print_worthy_album/DSC_0828.jpg'",
+    "image": "<img src='../images/photos/urban/no_1.jpg'>",
   },
   {
-    "image": "../images/photos/print_worthy_album/DSC_0173.jpg",
+    "image": "<img src='../images/photos/urban/no_2.jpg'>",
   },
   {
-    "image": "../images/photos/print_worthy_album/DSC_0272.jpg",
+    "image": "<img src='../images/photos/urban/no_3.jpg'>",
   },
   {
-    "image": "../images/photos/print_worthy_album/DSC_0332.jpg",
+    "image": "<img src='../images/photos/urban/no_4.jpg'>",
   },
   {
-    "image": "../images/photos/print_worthy_album/DSC_0843.jpg",
+    "image": "<img src='../images/photos/urban/no_5.jpg'>",
   },
 
 ]
